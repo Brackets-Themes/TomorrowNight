@@ -12,4 +12,4 @@ For more themes and install instructions see the [Brackets Themes website](http:
 ![Tomorrow Night Theme in an HTML file](https://github.com/Brackets-Themes/TomorrowNight/blob/master/tomorrow-night-screenshot-html.png)
 
 ## HTML
-![Tomorrow Night Theme in an HTML file](https://github.com/Brackets-Themes/TomorrowNight/blob/master/tomorrow-night-screenshot-html.png)
+![Tomorrow Night Theme in a JS file](https://github.com/Brackets-Themes/TomorrowNight/blob/master/tomorrow-night-screenshot-js.png)
