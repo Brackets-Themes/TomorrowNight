@@ -1,0 +1,20 @@
+{
+    "title": "Tomorrow Night",
+    "name": "tomorrow-night",
+    "description": "Tomorrow Night theme for Brackets",
+    "version": "1.0",
+    "author": "Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)",
+    "homepage": "https://github.com/Brackets-Themes/TommorrowNight",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/TomorrowNight.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "tomorrow-night.css",
+        "dark": true
+    },
+    "screenshot": "tomorrow-night-screenshot-css.png"
+}
